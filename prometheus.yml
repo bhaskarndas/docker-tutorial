@@ -10,7 +10,7 @@ scrape_configs:
         
 remote_write:
  - url: https://listener.logz.io:8053
-   bearer_token: 'OUGaycqbyrsKRekKaAOdVKnkDcrNJvbp'
+   bearer_token: 'QFnASTrlczVRDOiXlACjWmBMRRbZWaGk'
    remote_timeout: 30s
    queue_config:
      batch_send_deadline: 5s
